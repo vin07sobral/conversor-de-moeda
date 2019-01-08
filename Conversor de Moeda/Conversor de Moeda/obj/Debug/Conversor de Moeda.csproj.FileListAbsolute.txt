@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\bin\Debug\Conversor de Moeda.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\bin\Debug\Conversor de Moeda.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\bin\Debug\Conversor de Moeda.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor_de_Moeda.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor_de_Moeda.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor de Moeda.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor de Moeda.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor de Moeda.pdb
+E:\C#\Conversor de Moeda\Conversor de Moeda\bin\Debug\Conversor de Moeda.exe.config
+E:\C#\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor de Moeda.exe
+E:\C#\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor de Moeda.pdb
+C:\Users\administrator\Documents\Visual Studio 2015\Projects\Conversor de Moeda\Conversor de Moeda\obj\Debug\Conversor de Moeda.csprojResolveAssemblyReference.cache
